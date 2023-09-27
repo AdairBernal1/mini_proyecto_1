@@ -1,0 +1,27 @@
+name: mini_proyecto_1
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+   - assets/menor18.png
+   - assets/18-24.9.png
+   - assets/25-26.9.png
+   - assets/27-29.9.png
+   - assets/30-39.9.png
+   - assets/mayor40.png
